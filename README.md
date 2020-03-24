@@ -1,2 +1,2 @@
 # 50-Days-of-Euler
-## Instructions to submit PR
+### Instructions to submit PR
