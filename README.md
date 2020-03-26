@@ -20,13 +20,13 @@ Join us on discord, [click here](https://discord.gg/PuQRAFr)!
 1. The competition will begin on 28 March 2020 and end on 17 May 2020.
 2. One can register any time he/she wants while the competition is ongoing.
 3. All programs must be written in `C`.
-4. The answers can only be submitted in the same sequence as the questions.
+4. The answers can only be submitted in the same sequence as the questions and need to be marked as `accepted` before moving on to next submission. Refer to `Rule 8` for acceptance criteria.
 5. There is no-time limit per answer, one can take as long as the competition runs for completing an answer as required considering `Rule 4` is followed.
 6. Every submission should contain a `README.md` that explains how the program should be executed, any inputs if required and how will the output be generated.
     - Details on how to submit an answer can be found [here](#instructions-to-submit-an-answer).
 7. There will be strict plagarism checks for all submissions. If the plagarism is found to be above 60%, the contestant will be disqualified. 
     - If the user has posted his/her code somewhere else, please ensure that it is mentioned in the `README.md` file. Verification of the same will also be performed.
-8. Only answers with less than 10% plagarism will be accepted as valid submissions. Acceptance of an answer will be denoted by the Pull Request being marked approved.
+8. Only answers with less than ~20-30% plagarism will be accepted as valid submissions. Acceptance of an answer will be denoted by the Pull Request being marked approved.
 9. Strictly ensure that no details that compromise your privacy are present in the submissions.
 10. The best answer for each question will be merged into the repo at the end of the competition!
 
