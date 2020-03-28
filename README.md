@@ -19,7 +19,7 @@ Join us on discord, [click here](https://discord.gg/PuQRAFr)!
 
 1. The competition will begin on 30 March 2020 and end on 19 May 2020.
 2. One can register any time he/she wants while the competition is ongoing.
-3. All programs must be written in `C`.
+3. All programs must be written in `C` or `Python`, though we recommend `C`.
 4. The answers can only be submitted in the same sequence as the questions and need to be marked as `accepted` before moving on to next submission. Refer to `Rule 8` for acceptance criteria.
 5. There is no-time limit per answer, one can take as long as the competition runs for completing an answer as required considering `Rule 4` is followed.
 6. Every submission should contain a `README.md` that explains how the program should be executed, any inputs if required and how will the output be generated.
