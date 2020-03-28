@@ -1,6 +1,6 @@
 # The 50 Days of Euler Challenge
 
-50 Days of Euler is a series of random questions from [Project Euler](https://projecteuler.net/) which are to be solved programmatically. It is organized by the Student Chapters of ACM & ACM-W at Symbiosis Institute of Computer Studies and Research and will begin 28 March 2020 onwards.
+50 Days of Euler is a series of random questions from [Project Euler](https://projecteuler.net/) which are to be solved programmatically. It is organized by the Student Chapters of ACM & ACM-W at Symbiosis Institute of Computer Studies and Research and will begin 30 March 2020 onwards.
 
 This repository contains the questions which will be released on a daily basis for participants to attempt and post completion the best answers among all the solutions.
 
@@ -17,7 +17,7 @@ Join us on discord, [click here](https://discord.gg/PuQRAFr)!
 
 ## Rules
 
-1. The competition will begin on 28 March 2020 and end on 17 May 2020.
+1. The competition will begin on 30 March 2020 and end on 19 May 2020.
 2. One can register any time he/she wants while the competition is ongoing.
 3. All programs must be written in `C`.
 4. The answers can only be submitted in the same sequence as the questions and need to be marked as `accepted` before moving on to next submission. Refer to `Rule 8` for acceptance criteria.
