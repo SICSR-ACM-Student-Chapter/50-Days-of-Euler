@@ -3,7 +3,7 @@ name: Registration
 about: Fill in this template with required details in order to register for 50 Days
   of Euler Challenge
 title: "[REG]"
-labels: registration
+labels: registration, user-not-verified
 assignees: ''
 
 ---
