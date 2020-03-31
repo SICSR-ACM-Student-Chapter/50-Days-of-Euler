@@ -31,10 +31,9 @@ int main()
 {
 	long i,prime_sum=5;
 	for(i=5;i<2000000;i++)
-	{
 		if(isPrime(i)==1)
 			prime_sum+=i;
-	}
+	
 	printf("Sum of all PrimeNumbers till 2 Million are %ld \n",prime_sum);
 	return 0;
 }
