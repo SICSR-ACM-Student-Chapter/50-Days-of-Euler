@@ -17,10 +17,9 @@ int isPrime(long n)
 	long i;
 	// loop is run till the sqrt(n), to reduce the time by 1/2
 	for(i=2;i<=(int)sqrt(n);i++)
-	{
 		if(n%i==0)
 			break;
-	}
+	
 	// checking if the loop is run till the end or not
 	if(i==((int)sqrt(n)+1))
 		return 1;
