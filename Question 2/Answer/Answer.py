@@ -28,7 +28,7 @@ m=0   #Initalizing array counter
 pl=[] #products array
 
 for i in range(1000-13):
-    if(i==r2[m]):                   #if in duplicate array don't count product
+    if(i==r2[m]):                   #if in array r[] don't count product
         m=m+1
     else:
         product=1
