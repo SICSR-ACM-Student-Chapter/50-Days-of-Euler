@@ -14,7 +14,7 @@ Method:
 1. Initialize Maximum number limit for total prime numbers.
 2. Initialize a list from 0 to 2 Million.
 3. Initialize it as all False(i.e. 0).
-4. Initialize sum to 2.
+4. Initialize sum to 2. Initialize iterator to 3.
 6. Remove possible multiple of 2 and assigning to 1.
 7. Remove 1 from primes list by assigning to 1.
 8. Now iterate a while loop till sqrt(2 million) as all non-primes above it have already been crossed out by lower primes.
