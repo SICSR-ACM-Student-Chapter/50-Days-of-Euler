@@ -11,18 +11,6 @@ Problem Statement: The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17. Find th
 #include<stdio.h>
 #include<math.h>
 
-int main()
-{
-	long i,prime_sum=5;
-	for(i=5;i<2000000;i++)
-	{
-		if(isPrime(i)==1)
-			prime_sum+=i;
-	}
-	printf("Sum of all PrimeNumbers till 2 Million are %ld \n",prime_sum);
-	return 0;
-}
-
 //prime-check function
 int isPrime(long n)
 {
@@ -38,4 +26,16 @@ int isPrime(long n)
 		return 1;
 	else
 		return 0;
+}
+
+int main()
+{
+	long i,prime_sum=5;
+	for(i=5;i<2000000;i++)
+	{
+		if(isPrime(i)==1)
+			prime_sum+=i;
+	}
+	printf("Sum of all PrimeNumbers till 2 Million are %ld \n",prime_sum);
+	return 0;
 }
