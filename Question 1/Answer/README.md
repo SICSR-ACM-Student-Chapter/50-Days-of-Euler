@@ -11,7 +11,7 @@
     No Input Required
     Output
 
-        Sum of all Prime Numbers till 2 Million are 142913828922
+       The sum of all prime numbers upto 2000000 is 142913828922
 
 **Author**
 
