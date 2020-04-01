@@ -1,0 +1,21 @@
+#include<stdio.h>
+int main()
+{
+  int i,j,flag;
+  long long int sum=2+3+5+7;
+  for(i=11;i<200000;i=i+1)
+  { flag=0;
+    for(j=2;j<i;j=j+1)
+    {
+      if(i%j==0)
+      {
+        flag=1;
+        break;
+      }
+    }
+    if(flag!=1)
+      sum=sum+1;
+  }
+  printf("The sum of prime numbers upto 200000 is %lld",sum);
+  return 0;
+}
