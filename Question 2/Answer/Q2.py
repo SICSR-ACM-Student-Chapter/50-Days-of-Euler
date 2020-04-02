@@ -1,6 +1,6 @@
 # Name: Kumar Ashwin
 # Email: krashwin00@gmail.com
-# Date: 31st March, 2020
+# Date: 2nd April, 2020
 # Version: v1
 # Problem Statement: Find the thirteen adjacent digits in the 1000-digit number (File Included) that have the greatest product. What is the value of this product?
 
