@@ -11,3 +11,8 @@
     Output
 
        The max product = 70600674
+
+**Author**
+
+    Diksha Choudhary
+    Email: diksha2.choudhary83@gmail.com
