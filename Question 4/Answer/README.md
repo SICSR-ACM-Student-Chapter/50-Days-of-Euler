@@ -1,8 +1,8 @@
-**Question 1 - Solution**
+**Question 4 - Solution**
 **Execution Instructions**
 
     Compiler Details : gcc
-    Type down the command in the linux terminal answer_3.c -o ob
+    Type down the command in the linux terminal answer_4.c -o ob
     The above mentioned command will generate an object file which can be run directly on the terminal using ./ob
 
 **Input & Output**
