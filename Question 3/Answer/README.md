@@ -1,4 +1,4 @@
-**Question 1 - Solution**
+**Question 3 - Solution**
 **Execution Instructions**
 
     Compiler Details : gcc
@@ -11,3 +11,8 @@
     Output
 
        The product of the triplet = 31875000
+
+**Author**
+
+    Diksha Choudhary
+    Email: diksha2.choudhary83@gmail.com
