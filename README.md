@@ -8,6 +8,14 @@ This repository contains the questions which will be released on a daily basis f
 
 Join us on discord, [click here](https://discord.gg/PuQRAFr)!
 
+## Table of Contents
+- [How to Join](#how-to-join)
+- [Rules](#rules)
+- [Instructions to Submit an Answer](#instructions-to-submit-an-answer)
+- [Judging Criteria](#judging-criteria)
+- [How do I keep my fork updated?](#how-do-i-keep-my-fork-updated)
+- [Still Have Questions? Ask Us](#still-have-questions-ask-us)
+
 ## How to Join
 
 1. Create a new Issue with the `Registration` template.
@@ -26,7 +34,7 @@ Join us on discord, [click here](https://discord.gg/PuQRAFr)!
     - Details on how to submit an answer can be found [here](#instructions-to-submit-an-answer).
 7. There will be strict plagarism checks for all submissions. If the plagarism is found to be above 60%, the contestant will be disqualified. 
     - If the user has posted his/her code somewhere else, please ensure that it is mentioned in the `README.md` file. Verification of the same will also be performed.
-8. Only answers with less than ~20-30% plagarism will be accepted as valid submissions. Acceptance of an answer will be denoted by the Pull Request being marked approved.
+8. Only answers with less than ~15% plagarism will be accepted as valid submissions. Acceptance of an answer will be denoted by the Pull Request being marked approved.
 9. Strictly ensure that no details that compromise your privacy are present in the submissions.
 10. The best answer for each question will be merged into the repo at the end of the competition!
 
@@ -50,7 +58,34 @@ Join us on discord, [click here](https://discord.gg/PuQRAFr)!
 
 ## Judging Criteria
 
-> Coming Soon!
+Marking will be performed at the end of the 50 days by the judges based on the following criteria:
+1. Documentation and Code Readability.
+2. Consistency within the Code, e.g. Coding Standards.
+3. Performance of the Program based on CPU Usage, Memory Usage and Time taken.
+
+## How do I keep my fork updated?
+In order to obtain the latest questions on your fork, a procedure known as a `Rebase` needs to be performed. Here are the basic steps to follow:
+1. You need to add a **remote** to your fork's clone. We will call it upstream following the convention. The command is:
+```shell
+$ git remote add upstream https://github.com/SICSR-ACM-Student-Chapter/50-Days-of-Euler.git
+```
+2. Check if the command is succesful via:
+```shell
+$ git remote
+```
+3. Next, run `git fetch` to update your local Git Database with all the history from all your remotes.
+```shell
+$ git fetch upstream
+```
+4. Now, ensure you are on the `master` branch of your repository by using: 
+```shell
+$ git checkout master
+```
+5. Now perform a rebase by using the `--rebase` flag while pulling. Then push the changes to your GitHub.
+```shell
+$ git pull --rebase upstream master
+$ git push
+```
 
 ## Still have questions? Ask us
 Please connect with us via the Discord server and ask your questions in the `#support` text channel.
