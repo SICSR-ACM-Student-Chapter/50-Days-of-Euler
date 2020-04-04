@@ -64,7 +64,7 @@ int main()
                 }
             }
         }
-        printf("max product in the grid is %d",max);
+        printf("Max product in the grid is %d",max);
         fclose(fptr);
     }
     return 0;
