@@ -220,7 +220,6 @@ int main()
           // sum1=sum1-(arr[i-j+4][j-4])+(arr[i][j]);
           if(sum>max)
           {
-            pos=j;
             max=sum;
           }
           // else if(sum1>sum&&sum1>max)
