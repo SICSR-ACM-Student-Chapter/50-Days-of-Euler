@@ -1,4 +1,4 @@
-**Question 1 - Solution**
+**Question 2 - Solution**
 **Execution Instructions**
 
     Compiler Details : gcc
