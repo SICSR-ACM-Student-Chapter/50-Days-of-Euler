@@ -1,4 +1,4 @@
-**Question 1 - Solution**
+**Question 5 - Solution**
 **Execution Instructions**
 
     Compiler Details : gcc
@@ -12,5 +12,5 @@
         File '1h50.txt' 
     
     Output
-
-       The sum of all prime numbers upto 2000000 is 142913828922
+    
+        The first ten digits of the sum are = 5590879764  
