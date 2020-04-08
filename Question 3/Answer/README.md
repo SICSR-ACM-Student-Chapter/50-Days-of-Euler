@@ -6,3 +6,5 @@ There exists exactly one Pythagorean triplet for which a + b + c = 1000. Find th
 1.
 
 2.
+
+o/p : 31875000
