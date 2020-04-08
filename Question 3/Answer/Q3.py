@@ -13,4 +13,7 @@ for c in range(total):
             if a + b + c == total:
                 if is_triplet(a,b,c):
                     # print(a,b,c)
-                    print(a*b*c) 
+                    product = a*b*c
+                    print("Product of triplet having sum 1000 is", product)
+                    
+                    
