@@ -6,11 +6,11 @@ def is_triplet(a,b,c):
     else:
         return False
 
-    sum_total = 1000
-for c in range(sum_total):
+total = 1000
+for c in range(total):
     for b in range(c):
         for a in range(b):
-            if a + b + c == sum_total:
+            if a + b + c == total:
                 if is_triplet(a,b,c):
                     # print(a,b,c)
                     print(a*b*c) 
