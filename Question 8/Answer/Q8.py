@@ -8,7 +8,7 @@ def sum_of_digits(num):
         num //= 10
     return sum
 
-num = 2 ** 1000  # 2 power 1000
-result = sum_of_digits(num)
+number = 2 ** 1000  # 2 power 1000
+result = sum_of_digits(number)
 #print(num)
 print("Sum of the digits of 2**1000 is ",result)
